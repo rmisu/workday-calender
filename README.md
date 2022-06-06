@@ -6,3 +6,4 @@ This current date and time is also displayed at the top of the page (refreshed w
 Another functionality that is still being tested is the color coding of the schedule based on whether items are currently in the past, 
 due at the present hour, or still in the future.
 
+Link to site: https://rmisu.github.io/workday-calender/
