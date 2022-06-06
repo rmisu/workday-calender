@@ -7,3 +7,5 @@ Another functionality that is still being tested is the color coding of the sche
 due at the present hour, or still in the future.
 
 Link to site: https://rmisu.github.io/workday-calender/
+
+<img width="1105" alt="Screen Shot 2022-06-06 at 0 02 45" src="https://user-images.githubusercontent.com/104178580/172097993-200b076e-788c-4a52-a1cb-de3bfc7df593.png">
